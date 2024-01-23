@@ -5,7 +5,6 @@
 
 <div align="center">
     <h1><a href="https://attuneengineering.com">Attune Engineering</a></h1>
-    <p>by <a href="https://reedbender.com"><em>Reed Bender</em></a></p>
     <a href="https://github.com/AttuneEngineering"><img src="https://img.shields.io/github/stars/AttuneEngineering?style=for-the-badge" alt="Attune Engineering's stars"></a>
     <a href="https://www.youtube.com/channel/UCNMrLvZji3XeWghxsAWKXjg"><img src="https://img.shields.io/youtube/channel/subscribers/UCNMrLvZji3XeWghxsAWKXjg?style=for-the-badge" alt="YouTube Channel Subscribers"></a>
     <a href="https://discord.gg/sAbbvBNU"><img src="https://img.shields.io/discord/1199192124290257058.svg?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
