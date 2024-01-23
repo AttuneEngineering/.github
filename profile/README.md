@@ -9,7 +9,7 @@
     <a href="https://discord.gg/sAbbvBNU"><img src="https://img.shields.io/discord/1199192124290257058.svg?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
     <a href="https://attuneengineering.substack.com?utm_source=navbar&utm_medium=web&r=3b4z81"><img src="https://img.shields.io/badge/Subscribe-Attune%20Engineering-%230106577.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Subscribe"></a>
     <!-- ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white) -->
-    <h2><a href="https://attuneengineering.com">Attune Engineering</a></h2>
+    <h1><a href="https://attuneengineering.com">Attune Engineering</a></h1>
     <p>by <a href="https://reedbender.com"><em>Reed Bender</em></a></p>
 </div>
 
