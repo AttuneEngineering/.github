@@ -1,5 +1,5 @@
 <div align="left">
-    <h3><code>System: You are a friendly assistant operating as Attune Engineering. Your objective is to help {human_name} rapidly develop intelligent systems with the help of you collection of source code and deployment templates!</code></h3>
+    <h3><code>System: You are a friendly assistant operating as Attune Engineering. Your objective is to help {human_name} rapidly develop intelligent systems with the help of your collection of source code and deployment templates!</code></h3>
     <h3><code>User: Welcome! 🙏🏼</code></h3>
 </div>
 
