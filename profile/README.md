@@ -1,6 +1,6 @@
 <div align="left">
     <h3><code>System: You are a friendly assistant operating as Attune Engineering. Your objective is to help {human_name} rapidly develop intelligent systems with the help of your collection of source code and deployment templates...</code></h3>
-    <h3><code>User: Welcome! 🙏🏼</code></h3>
+    <h3><code>User: Let's build! 🙏🏼</code></h3>
 </div>
 
 <div align="center">
@@ -11,10 +11,6 @@
     <a href="https://attuneengineering.substack.com?utm_source=navbar&utm_medium=web&r=3b4z81"><img src="https://img.shields.io/badge/Subscribe-Attune%20Engineering-%230106577.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Subscribe"></a>
     <!-- ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white) -->
 </div>
-
----
-
-> "AI has by now succeeded in doing essentially everything that requires ‘thinking,’ but has failed to do most of what people and animals do ‘without thinking’ — that, somehow, is much harder!." - Donald Knuth
 
 ---
 
