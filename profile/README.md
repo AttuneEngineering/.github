@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/banner.png" alt="Attune Engineering Banner" />
+    <img src="profile/assets/banner.png" alt="Attune Engineering Banner" />
 </div>
 
 <div align="left">
@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-        <a href="https://attuneengineering.com"><img src="assets/attune-engineering-logo.png" alt="Attune Engineering Logo" /></a>
+        <a href="https://attuneengineering.com"><img src="profile/assets/attune-engineering-logo.png" alt="Attune Engineering Logo" /></a>
         <a href="https://github.com/AttuneEngineering"><img src="https://img.shields.io/github/stars/AttuneEngineering?style=for-the-badge" alt="Attune Engineering's stars"></a>
         <a href="https://www.youtube.com/channel/UCNMrLvZji3XeWghxsAWKXjg"><img src="https://img.shields.io/youtube/channel/subscribers/UCNMrLvZji3XeWghxsAWKXjg?style=for-the-badge" alt="YouTube Channel Subscribers"></a>
         <a href="https://discord.gg/sAbbvBNU"><img src="https://img.shields.io/discord/1199192124290257058.svg?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
