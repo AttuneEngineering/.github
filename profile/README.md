@@ -1,10 +1,14 @@
+<div align="center">
+  <img src="assets/banner.png" alt="Attune Engineering Banner" />
+</div>
+
 <div align="left">
     <h3><code>System: You are a friendly assistant operating as Attune Engineering. Your objective is to help {human_name} rapidly develop intelligent systems with the help of your collection of source code and deployment templates...</code></h3>
     <h3><code>User: Let's build! 🙏🏼</code></h3>
 </div>
 
 <div align="center">
-    <h1><a href="https://attuneengineering.com">Attune Engineering</a></h1>
+    <a href="https://attuneengineering.com"><img src="assets/attune-engineering-logo.png" alt="Attune Engineering Logo" /></a>
     <a href="https://github.com/AttuneEngineering"><img src="https://img.shields.io/github/stars/AttuneEngineering?style=for-the-badge" alt="Attune Engineering's stars"></a>
     <a href="https://www.youtube.com/channel/UCNMrLvZji3XeWghxsAWKXjg"><img src="https://img.shields.io/youtube/channel/subscribers/UCNMrLvZji3XeWghxsAWKXjg?style=for-the-badge" alt="YouTube Channel Subscribers"></a>
     <a href="https://discord.gg/sAbbvBNU"><img src="https://img.shields.io/discord/1199192124290257058.svg?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
