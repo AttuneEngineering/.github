@@ -14,9 +14,13 @@
 
 ---
 
-> "Try stuff that deviates from what everybody else is doing, and nine times out of ten you'll just learn why nobody else is doing that. But on the tenth you discover something that's better."
+> “AI has by now succeeded in doing essentially everything that requires ‘thinking,’ but has failed to do most of what people and animals do ‘without thinking’ — that, somehow, is much harder!”
 >
-> ~ Guido van Possum, creator of *Python*
+>    ~ Donald Knuth
+
+<!-- > "Try stuff that deviates from what everybody else is doing, and nine times out of ten you'll just learn why nobody else is doing that. But on the tenth you discover something that's better."
+>
+> ~ Guido van Possum, creator of *Python* -->
 
 ---
 
