@@ -14,5 +14,10 @@
 
 ---
 
+> "Try stuff that deviates from what everybody else is doing, and nine times out of ten you'll just learn why nobody else is doing that. But on the tenth you discover something that's better."
+>
+> ~ Guido van Possum, creator of *Python*
+
+---
 
 
