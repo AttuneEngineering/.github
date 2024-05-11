@@ -5,8 +5,9 @@
 
 <div align="center">
         <h1><a href="https://attuneintelligence.ai"><em>Attune Intelligence</em></a></h1>
-        <a href="https://github.com/AttuneIntelligence"><img src="https://img.shields.io/github/stars/AttuneIntelligence?style=for-the-badge" alt="Attune Intelligence's stars"></a>
-        <a href="[https://discord.gg/sAbbvBNU](https://discord.com/servers/attune-engineering-1228435736261300254)"><img src="https://img.shields.io/discord/1228435736261300254?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+        <!-- <a href="https://github.com/AttuneIntelligence"><img src="https://img.shields.io/github/stars/AttuneIntelligence?style=for-the-badge" alt="Attune Intelligence's stars"></a>  -->
+        <!--         <a href="[https://discord.gg/sAbbvBNU](https://discord.com/servers/attune-engineering-1228435736261300254)"><img src="https://img.shields.io/discord/1228435736261300254?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a> -->
+        <iframe src="https://discord.com/widget?id=1228435736261300254&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
         <!-- <a href="https://attuneengineering.substack.com?utm_source=navbar&utm_medium=web&r=3b4z81"><img src="https://img.shields.io/badge/Subscribe-Attune%20Engineering-%230106577.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Subscribe"></a> -->
         <!-- ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white) -->
 </div>
